@@ -1,0 +1,6 @@
+[submodule "src/kernel"]
+	path = src/kernel
+	url = https://github.com/morryaland/mylix-kernel
+[submodule "src/bootloader"]
+	path = src/bootloader
+	url = https://github.com/morryaland/mylix-bootloader
